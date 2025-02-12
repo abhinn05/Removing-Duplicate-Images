@@ -27,5 +27,7 @@ jupyter notebook Hackathon.ipynb
 # Usage
 
 ✅Mount Google Drive for data access
+
 ✅Extract images from compressed files
+
 ✅Train and evaluate the model
