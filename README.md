@@ -6,11 +6,7 @@ This project focuses on image processing and classification using TensorFlow and
 
 # Features
 
-✅ Uses ResNet50 for image classification
-✅ Extracts images from .zip files
-✅ Computes precision, recall, and F1-score for evaluation
-✅ Utilizes Google Drive for data storage
-
+✅ Uses ResNet50 for image classification✅ Extracts images from .zip files✅ Computes precision, recall, and F1-score for evaluation✅ Utilizes Google Drive for data storage
 # Installation
 
 ✅Clone the repository:
