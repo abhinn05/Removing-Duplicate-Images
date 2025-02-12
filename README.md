@@ -1,6 +1,4 @@
-# Removing-Duplicate-Images
-
-# Hackathon Project
+# Hackathon Project (Removing-Duplicate-Images)
 
 # Overview
 
